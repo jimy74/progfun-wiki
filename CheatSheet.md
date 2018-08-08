@@ -13,7 +13,7 @@ There are certainly a lot of things that can be improved! If you would like to c
 
 - Fork the repository [https://github.com/lampepfl/progfun-wiki](https://github.com/lampepfl/progfun-wiki) and check it out locally. To preview your changes, you need [jekyll](http://jekyllrb.com/). Navigate to your checkout and invoke `jekyll serve`, then open the page [http://localhost:4000/CheatSheet.html](http://localhost:4000/CheatSheet.html).
 
-## Evaluation Rules
+## Evaluation Rules 
 
 - Call by value: evaluates the function arguments before calling the function
 - Call by name: evaluates the function first, and then evaluates the arguments if need be
